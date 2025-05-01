@@ -1,2 +1,2 @@
-# CI-book
-coding exercise for CI-book
+# Causal Inference Exercises
+Code for Exercise 14 and 15 in Chapter 15
